@@ -1,0 +1,39 @@
+{
+  "streams": [
+    {
+      "title": "my stream 01",
+      "description": "stream 01",
+      "id": 1
+    },
+    {
+      "title": "my stream 02",
+      "description": "stream 02",
+      "id": 2
+    },
+    {
+      "title": "my stream 03",
+      "description": "03",
+      "id": 3
+    },
+    {
+      "title": "my stream 04",
+      "description": "04",
+      "id": 4
+    },
+    {
+      "title": "mystream",
+      "description": "this is some stream",
+      "id": 5
+    },
+    {
+      "title": "unexpected behavior",
+      "description": "aaaaaaaaaaa",
+      "id": 7
+    },
+    {
+      "title": "lsot edit",
+      "description": "lost delete",
+      "id": 8
+    }
+  ]
+}
